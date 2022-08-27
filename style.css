@@ -230,7 +230,7 @@ body {
     font-size: 110px;
 }
 .hero-2 { /* ! Project */
-    background: url(photo/MODELLINO\ 2.JPG) no-repeat center center;
+    background: url(photo/MODELLINO\ 2\ ottimizzata.jpg) no-repeat center center;
     background-size: cover;
 }
 .hero-3 { /* ! Software */
@@ -318,7 +318,7 @@ body {
     transform: translateY(70px);
     margin-bottom: 140px;
     
-    background: url(photo/MODELLINO\ 2.JPG) no-repeat center center;
+    background: url(photo/MODELLINO\ 2\ ottimizzata.jpg) no-repeat center center;
     background-size: cover;
 }
 
