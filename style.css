@@ -259,7 +259,7 @@ body {
 @media (max-width: 768px) {
     .hero-1 h1 {
         font-weight: 700;
-        font-size: 35px;
+        font-size: 30px;
         position: absolute;
         margin: 0;
         top: 40%;
